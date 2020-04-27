@@ -13,3 +13,5 @@ Plugin de dades para la covid-19 compatible amb la platilla: WPCOVID-19 (https:/
 Aquest projecte esta destinat per pujar noticies de interes.
 
 Si trobes algun error en la web o de seguretat o modificaries algú del disseny o ficaries alguna novetat compatible amb la plantilla Jannah - Newspaper Magazine News BuddyPress AMP comentans i farem una millora. Per això obrim un projecte a GitHub per que en comuniquis les coses sobre la web.
+
+Si veus que es penja alguna noticia que podria ser falsa també comentau i es mirara. 
